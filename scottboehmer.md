@@ -4,8 +4,13 @@ better place.*
 
 ## Experience
 
+### GitHub
+- **Staff Software Engineer** July 2020 - Present
+
+TBD...
+
 ### Microsoft - Azure DevOps
-- **Principal Software Engineer** July 2017 - Present
+- **Principal Software Engineer** July 2017 - June 2020
 
 Developed new Continuous Integration features for Azure Pipelines using C#, SQL,
 TypeScript, and React. Added support for build completion triggers. Reimplemented
