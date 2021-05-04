@@ -7,7 +7,9 @@ better place.*
 ### GitHub
 - **Staff Software Engineer** July 2020 - Present
 
-TBD...
+Worked on engineering system telemetry and improvements for the Azure DevOps platform.
+Prototyped new features for GitHub Actions enterprise customers.
+Working on the deployment system for GitHub's enterprise offering.
 
 ### Microsoft - Azure DevOps
 - **Principal Software Engineer** July 2017 - June 2020
