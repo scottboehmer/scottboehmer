@@ -1,11 +1,11 @@
 ### Work
 
-<img src='./assets/silverlight-100.png' alt='Silverlight'/>
-<img src='./assets/windows-phone-100.png' alt='Windows Phone'/>
-<img src='./assets/ie-100.png' alt='Mobile Internet Explorer'/>
-<img src='./assets/edge-100.png' alt='Edge'/>
-<img src='./assets/azure-devops-100.png' alt='Azure DevOps'/>
-<img src='./assets/github-100.png' alt='GitHub'/>
+[![Silverlight](./assets/silverlight-100.png)](https://en.wikipedia.org/wiki/Microsoft_Silverlight)
+[![Windows Phone](./assets/windows-phone-100.png)](https://en.wikipedia.org/wiki/Windows_Phone_8)
+[![Mobile Internet Explorer](./assets/ie-100.png)](https://en.wikipedia.org/wiki/Internet_Explorer_Mobile#Version_11)
+[![Edge](./assets/edge-100.png)](https://en.wikipedia.org/wiki/Microsoft_Edge)
+[![Azure DevOps](./assets/azure-devops-100.png)](https://en.wikipedia.org/wiki/Visual_Studio#Azure_DevOps_Services)
+[![GitHub](./assets/github-100.png)](https://en.wikipedia.org/wiki/GitHub)
 
 ### Social
  - [mastodon](https://mastodon.online/@scottboehmer)
