@@ -10,7 +10,6 @@
 ### Social
  - [mastodon](https://mastodon.online/@scottboehmer)
  - [linkedin](https://www.linkedin.com/in/sboehmer)
- - [facebook](https://www.facebook.com/scott.boehmer/)
 
 ### Blog
 - [Scott's Game Room](https://scottsgameroom.com)
