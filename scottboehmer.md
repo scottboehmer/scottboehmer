@@ -2,7 +2,16 @@
 *Experienced software engineer seeking to create products that make the world a
 better place.*
 
-## Experience
+## Current
+
+### DuckDuckGo
+- **Senior Software Engineer** September 2025 - Present
+
+_C#_, _Windows Development_
+
+Working on DuckDuckGo's browser for Windows.
+
+## Past
 
 ### GitHub
 - **Staff Software Engineer** July 2020 - September 2023
@@ -27,7 +36,7 @@ Reimplemented Pipelines user experience to improve performance and support multi
 - **Principal Software Engineer Lead** March 2015 - June 2017
 - **Senior Development Lead** November 2012 - March 2015
 
-_C#_, _XAML_, _Mobile Development_
+_C#_, _XAML_, _Mobile Development_, _Windows Development_
 
 Led a team of software engineers owning the mobile browser user experience, downloads,
 and gesture navigation. Created feature and bug-fixing plans for releases while
