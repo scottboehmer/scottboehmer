@@ -20,3 +20,4 @@
 - [Free Worlds Technical Institute](https://free-worlds-tech.github.io/)
 - ['Mech Painters Union](https://mechpainters.org/)
 - [MegaMek Unit Digest](https://scottboehmer.github.io/megamek-unit-digest/index.htm)
+- [Leviathans Fleet Builder](https://scottboehmer.github.io/fleet-builder/)
