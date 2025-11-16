@@ -3,7 +3,7 @@
 [![Silverlight](./assets/silverlight-100.png)](https://en.wikipedia.org/wiki/Microsoft_Silverlight)
 [![Windows Phone](./assets/windows-phone-100.png)](https://en.wikipedia.org/wiki/Windows_Phone_8)
 [![Mobile Internet Explorer](./assets/ie-100.png)](https://en.wikipedia.org/wiki/Internet_Explorer_Mobile#Version_11)
-[![Edge](./assets/edge-100.png)](https://en.wikipedia.org/wiki/Microsoft_Edge)
+[![Edge](./assets/edge-100.png)](https://en.wikipedia.org/wiki/Microsoft_Edge_Legacy)
 [![Azure DevOps](./assets/azure-devops-100.png)](https://en.wikipedia.org/wiki/Visual_Studio#Azure_DevOps_Services)
 [![GitHub](./assets/github-100.png)](https://en.wikipedia.org/wiki/GitHub)
 [![DuckDuckGo](./assets/ddg-100.png)](https://en.wikipedia.org/wiki/DuckDuckGo_Private_Browser)
